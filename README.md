@@ -4,7 +4,7 @@ Precog Tasks
 
 This repository has three folders. 
 Task1:
-Task1 has a pdf named Task1.pdf. It contains my summary of the paper read
+Task1 has a pdf named precog_1.pdf. It contains my summary of the paper read
 
 Task2:
 Task2 has a Task.ipynb file which can be refered to for the code. The code is commented and it is easy to understand what each cell is about
